@@ -1,1 +1,13 @@
-# Babel boilderplate with reactjs from Jack Franlin
+# Babel boilderplate 
+====================
+with reactjs from Jack Franlin
+
+### To use
+```
+npm init
+npm install jspm -g
+npm install html-dist --save-dev
+npm install uglifyjs --save-dev
+jspm init   #select babel
+jspm install fetch=npm:whatwg-fetch --save
+jspm install react --save
