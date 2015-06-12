@@ -1,6 +1,6 @@
 # Babel boilderplate 
 ====================
-with reactjs from Jack Franlin
+with reactjs from Jack Franlin https://youtu.be/NpMnRifyGyw
 
 ### To use
 ```
