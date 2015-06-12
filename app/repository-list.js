@@ -10,7 +10,7 @@ export default class RepositoryList extends React.Component {
 	}
 
 	componentDidMount() {
-		reposForUser('alex2006hw').then((repos) => {
+		reposForUser('alexuser01').then((repos) => {
 			this.setState({ repos: repos });
 
 		});
